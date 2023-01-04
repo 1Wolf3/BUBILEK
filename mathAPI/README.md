@@ -1,5 +1,5 @@
-**# Math API**
+# Math API
 ***
-*3 evolving phases
+## 3 evolving phases
 
-*Calculator with 6 operations
+## Calculator with 6 operations
