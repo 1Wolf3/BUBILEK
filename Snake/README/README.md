@@ -20,7 +20,7 @@
 ***
 
 ***
-> 2. Third step was to create GUI.
+> 2. Second step was to create GUI.
 ***
 
 * creating not resizable window (lines 123-125)
@@ -35,7 +35,7 @@
 ***
 
 ***
-> 3. Second step was to create classes and define fuctions for movement.
+> 3. Third step was to create classes and define fuctions for movement.
 ***
 
 * class Snake - Constructing Snake object, spawn, part nad shape (canvas) (lines 17-29)
