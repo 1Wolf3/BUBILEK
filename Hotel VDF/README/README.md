@@ -188,7 +188,7 @@ tr:nth-child(even)  {
 
 ***
  
->> ![fotogalerie](fotogaleriecsspng)
+>> ![fotogalerie](fotogaleriecss.png)
 
 *** 
 
