@@ -1,0 +1,329 @@
+.Navbar {
+    font-family: Consolas,'Courier New', Courier, monospace;
+    display: block;
+    height: 50px;
+    line-height: 50px;
+}
+
+.Navbar ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.Navbar li {
+    float: right;
+}
+
+.Navbar li a {
+    display: inline-block;
+    text-align: center;
+    padding: 1px 10px;
+    text-decoration: none;
+}
+
+.Navbar li a.active {
+    background-color: black;
+}
+
+#nazevskoly {
+    float: left;
+    font-size: 15px;
+}
+
+.Navbar img {
+    padding-top: 5px;
+    padding-left: 10px;
+    float: left;
+}
+
+.WelcomeFlex {
+    display: flex;
+    justify-content: center;
+    font-family: Consolas,'Courier New', Courier, monospace;
+}
+
+.UvodBlock {
+    display: block;
+    font-family: Consolas, 'Courier New', Courier, monospace;
+    text-align: left;
+    font-size: small;
+}
+
+.UvodBlock h3 {
+    color: #32cd32;
+    font-size: x-large;
+}
+
+.UvodObrazek {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    width: 100%;
+}
+
+.UvodObrazek img {
+    width: 900px;
+    height: 700px;
+    border: 2px solid black;
+}
+
+.Spancolor {
+    font-size: 1vw;
+}
+
+.Spancolor span {
+    color:#32cd32;
+}
+
+.GalerieWelcomeFlex {
+    display: flex;
+    justify-content: center;
+    font-family: Consolas, 'Courier New', Courier, monospace;
+}
+
+.Galerie {
+    margin: 5px;
+}
+
+.Galerie img {
+    width: 100%;
+    height: auto;
+    border: 2px solid black;
+}
+
+.desc {
+    padding: 15px;
+    text-align: center;
+    font-family: Consolas, 'Courier New', Courier, monospace;
+    border: 2px solid black;
+}
+
+.GalerieUvodBlock {
+    display: block;
+    font-family: Consolas, 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.Galerie {
+    padding: 0 6px;
+    float: left;
+    width: 23%;
+}
+
+.KontaktyWelcomeFlex {
+    display: flex;
+    justify-content: center;
+    font-family: Consolas, 'Courier New', Courier, monospace;
+}
+
+.KontaktyUvodBlock {
+    display: block;
+    font-family: Consolas, 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.KontaktUdaje {
+    font-family: Consolas, 'Courier New', Courier, monospace;
+    font-size: large;
+    display: flex;
+    background-color: #d3d3d3;
+    justify-content: center;
+}
+
+table {
+    font-family: Consolas, 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 3px dotted black;
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    text-decoration: underline;
+}
+
+tr:nth-child(even)  {
+    background-color:white;
+}
+
+.FakturAdresa {
+    outline: 3px dotted black;
+    background-color: white;
+}
+
+#AdresaKontakt {
+    outline: 3px dotted black;
+    background-color: white;
+}
+
+#Email {
+    outline: 3px dotted black;
+    background-color: white;
+}
+
+.SluzbyWelcomeFlex {
+    display: flex;
+    justify-content: center;
+    font-family: Consolas, 'Courier New', Courier, monospace;
+}
+
+.SluzbyUvodBlock {
+    display: block;
+    text-align: center;
+    font-family: Consolas, 'Courier New', Courier, monospace;
+}
+
+#column2 {
+    background-color: #a1edcca6;
+    display: flex;
+    text-align: center;
+    font-family: Consolas, 'Courier New', Courier, monospace;
+}
+
+#column3 {
+    background-color: #a1edcca6;
+    display: flex;
+    justify-content: center;
+    font-family: Consolas, 'Courier New', Courier, monospace;
+    text-align: center;
+}
+#column4 {
+    background-color:#a1edcca6;
+    display: flex;
+    text-align: center;
+    font-family: Consolas, 'Courier New', Courier, monospace;
+    font-size: smaller;
+    justify-content: center;
+}
+
+#column5 {
+    background-color:#a1edcca6;
+    display: flex;
+    text-align: center;
+    font-family: Consolas, 'Courier New', Courier, monospace;
+    font-size: smaller;
+    justify-content: center;
+}
+
+#column6 {
+    background-color: #a1edcca6;
+    display: flex;
+    text-align: center;
+    font-family: Consolas, 'Courier New', Courier, monospace;
+}
+
+#Restaurace {
+    text-align: center;
+    color: #32cd32;
+    font-size: 50px;
+}
+
+#Ubytovani {
+    text-align: center;
+    color: #32cd32;
+    font-size: 50px;
+}
+
+#Cennik {
+    text-align: center;
+    color: #32cd32;
+    font-size: 50px;
+}
+
+#Pronajem {
+    text-align: center;
+    color: #32cd32;
+    font-size: 50px;
+}
+
+#CenaPronajem {
+    text-align: center;
+    color: #32cd32;
+    font-size: 50px;
+}
+
+@media screen and (max-width: 400px) {
+    .Spancolor {
+        font-size: 10px;
+    }
+    .Navbar {
+        font-size: 15px;
+        line-height: 50px;
+    }
+    .WelcomeFlex {
+        font-size: 10px;
+    }
+    .UvodBlock {
+        font-size: 10px;
+    }
+    .UvodBlock h3 {
+        font-size: 20px;
+    }
+    .SluzbyWelcomeFlex {
+        font-size: 10px;
+    }
+    .SluzbyUvodBlock {
+        font-size: 10px;
+    }
+    .UvodObrazek {
+        max-width: 1px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
