@@ -42,7 +42,7 @@
 
 ***
 
->> ![index](/README/HTML%20img/index.png)
+>> ![index.png](/README/HTML%20img/index.png)
 
 ***
 
