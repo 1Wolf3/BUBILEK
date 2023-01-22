@@ -42,7 +42,7 @@
 
 ***
 
->> ![index](/Faze1 - static/README/HTML img/index.png)
+>> ![index](index.png)
 
 ***
 
@@ -59,7 +59,7 @@
 
  ---
 
->> ![sluzby](/Faze1%20-%20static/README/HTML%20img/sluzby.png)
+>> ![sluzby](sluzby.png)
 
 ***
 
@@ -97,7 +97,7 @@
 ```
 ***
 
->> ![kontakt](/Faze1%20-%20static/README/HTML%20img/kontakt.png)
+>> ![kontakt](kontakt.png)
 
 ***
 
@@ -121,7 +121,7 @@
 ```
 ***
 
->> ![fotogalerie](/Faze1%20-%20static/README/HTML%20img/fotogalerie.png)
+>> ![fotogalerie](fotogalerie.png)
 
 ***
 
@@ -135,13 +135,13 @@
 
 ***
 
->> ![Navbar](/Faze1%20-%20static/README/CSS%20img/Navbar.png)
+>> ![Navbar](Navbar.png)
 
 > ## index.html style
 
 ***
 
->> ![index](/Faze1%20-%20static/README/CSS%20img/index.png)
+>> ![index](indexcss.png)
 
 ***
 
@@ -154,7 +154,7 @@
 
 ***
 
->> ![sluzby](/Faze1%20-%20static/README/CSS%20img/sluzby.png)
+>> ![sluzby](sluzbycss.png)
 
 ***
 
@@ -175,7 +175,7 @@ tr:nth-child(even)  {
 
 ***
 
->> ![kontakt](/Faze1%20-%20static/README/CSS%20img/kontakt.png)
+>> ![kontakt](kontaktcss.png)
 
 ***
 
@@ -188,7 +188,7 @@ tr:nth-child(even)  {
 
 ***
  
->> ![fotogalerie](/Faze1%20-%20static/README/CSS%20img/fotogalerie.png)
+>> ![fotogalerie](fotogaleriecsspng)
 
 *** 
 
@@ -201,7 +201,7 @@ tr:nth-child(even)  {
 
 ***
 
->> ![Span](/Faze1%20-%20static/README/CSS%20img/Span.png)
+>> ![Span](Span.png)
 
 ***
 
@@ -214,7 +214,7 @@ tr:nth-child(even)  {
 
 ***
 
->> ![Responsive](/Faze1%20-%20static/README/CSS%20img/Responsive.png)
+>> ![Responsive](Responsive.png)
 
 ***
 
