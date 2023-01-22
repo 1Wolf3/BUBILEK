@@ -42,7 +42,7 @@
 
 ***
 
->> ![index](/Faze1%20-%20static/README/HTML%20img/index.png)
+>> ![index](/Faze1 - static/README/HTML img/index.png)
 
 ***
 
