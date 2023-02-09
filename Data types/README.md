@@ -5,8 +5,8 @@
 ***
 
 > # Step one
-> ### The code starts by creating an array with $variables.
-> ### $variables contains four different values: "13", "13.1", "true", and "'string'".
+>> ### The code starts by creating an array with $variables.
+>> ### $variables contains four different values: "13", "13.1", "true", and "'string'".
 ***
 
 > # Step two
