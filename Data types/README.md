@@ -22,4 +22,4 @@
 ***
 
 > # Step four
->> # Finally, the $script string is saved to a file called "types.php" using the file_put_contents function.
+>> ### Finally, the $script string is saved to a file called "types.php" using the file_put_contents function.
