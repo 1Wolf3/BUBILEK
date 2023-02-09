@@ -1,5 +1,7 @@
 <?php
 
+# created by Gh0st-ed
+
 $variables = ["13", "13.1", "true", "'string'"];
 
 $script = "<?php\n\n";
