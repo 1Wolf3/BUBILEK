@@ -37,7 +37,6 @@ class Graph:
                     visited.add(neighbor)
         return False
 
-# Příklad použití:
 g = Graph()
 g.add_edge(0, 1)
 g.add_edge(0, 2)
